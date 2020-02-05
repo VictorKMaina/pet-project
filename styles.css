@@ -25,3 +25,9 @@ p {
   margin: 0;
   padding: 10px;
 }
+
+div {
+  background-color:#55555577;
+  padding: 10%;
+  margin-top: 200px;
+}
