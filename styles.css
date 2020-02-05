@@ -16,6 +16,8 @@ body {
   margin-top: 200px;
   margin-left: 15%;
   padding: 35px;
+  text-shadow: -1px 1px 5px #00000088;
+  box-shadow: -1px 1px 5px #00000055;
 }
 
 p {
